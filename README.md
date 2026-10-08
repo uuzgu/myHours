@@ -1,6 +1,6 @@
 # Weekly Hours & Earnings Calculator
 
-A calm, minimal, and lightweight web application to log weekly work hours and calculate earnings with an instant 1-page client-ready PDF export.
+A clean, lightweight calculator for freelancers and hourly workers to track weekly work hours and generate 1-page PDF timesheets.
 
 🔗 **Live Demo:** [https://myhours-sand.vercel.app](https://myhours-sand.vercel.app)
 
